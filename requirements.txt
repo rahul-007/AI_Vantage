@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+langsmith
+tavily-python
+langchain-community
+pydantic
+python-dotenv
+python-dateutil
+arxiv
+feedparser
