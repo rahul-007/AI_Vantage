@@ -1,6 +1,6 @@
-# 📰 AI News Briefing
+# 📰 AI Vantage
 
-AI News Briefing is a multi-page Streamlit web app that generates concise, AI-powered news and research summaries on demand across several domains — general news, academic research, the auto industry, AI product launches, product-management thought leadership, and identity/access management & cybersecurity. Pick a topic or vertical, tune the scope, and the app searches the web (or arXiv/RSS), deduplicates similar stories, and summarizes each one using an LLM.
+AI Vantage is a multi-page Streamlit web app that generates concise, AI-powered news and research summaries on demand across several domains — general news, academic research, the auto industry, AI product launches, product-management thought leadership, and identity/access management & cybersecurity. Pick a topic or vertical, tune the scope, and the app searches the web (or arXiv/RSS), deduplicates similar stories, and summarizes each one using an LLM.
 
 ## Features
 
